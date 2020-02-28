@@ -1,1 +1,1 @@
-# Newscraper
+# Text-Categorization-Application
